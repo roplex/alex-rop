@@ -8,7 +8,7 @@ Personal portfolio website of Alex Rop, Geospatial Engineer and founder of ROXR 
 
 - **About** – background, focus areas, education and technical toolkit
 - **Experience** – career timeline with an interactive map of on-site, hybrid and remote work
-- **Projects** – featured ROXR Climate Intelligence Index (RCII), selected projects, publications and certifications
+- **Projects** – featured ROXR Earth work (drought risk and land suitability intelligence), selected projects, publications and certifications
 - **Writing** – posts from [The HSI Report](https://thehsireport.substack.com) on Substack
 - **Contact** – message form and links
 

@@ -2,7 +2,7 @@
 
 Personal portfolio website of Alex Rop, Geospatial Engineer and founder of ROXR Earth, working on Earth Observation, drought intelligence and climate risk across Africa.
 
-**Live site:** https://roplex.github.io/MyWebsite/
+**Live site:** https://roplex.github.io/alex-rop/
 
 ## What's on the site
 
